@@ -13,7 +13,7 @@ function Body({ items }) {
           return (
             <div
               style={{
-                boxShadow: "inset 0 2px 5px 2px rgba(255,255,255,0.7)",
+                boxShadow: "inset 0 2px 5px 2px rgba(0,255,0,0.7)",
               }}
               key={index}
               className="w-44 bg-slate-950 text-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-2xl "
@@ -24,12 +24,12 @@ function Body({ items }) {
                   alt="Product"
                   className="h-28 w-44 object-cover rounded-s-full hover:rounded-xl duration-500"
                 />
-                <div className="px-4 py-3 w-44 flex items-center gap-7">
-                  <p className="text-sm  text-white  block capitalize">
+                <div className="px-4 py-3 w-44 flex items-center gap-7 ">
+                  <p className="text-sm  text-orange-400  block capitalize font-serif">
                     {itm.name}
                   </p>
-                  <p className="text-sm text-white cursor-auto my-3">
-                    ${itm.Price + " "} Birr
+                  <p className="text-sm text-white cursor-auto my-3 font-serif">
+                    {itm.Price + " "} Birr
                   </p>
                 </div>
               </a>

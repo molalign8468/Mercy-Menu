@@ -1,18 +1,19 @@
 // src/components/Header.jsx
 import React from "react";
+import myImage from "../assets/baner.jpg";
 
 const Header = () => {
   return (
     <header
       className="bg-cover bg-no-repeat bg-center shadow-lg bg-black"
       style={{
-        backgroundImage: `url("")`,
+        backgroundImage: `url(${myImage})`,
       }}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <h1 className="text-3xl font-bold text-center text-amber-500">
+            <h1 className="text-3xl font-bold text-center text-zinc-950 font-mono">
               Mercy Menu
             </h1>
           </div>
