@@ -2,7 +2,7 @@ import FruitePlater from "./assets/Fruit plater.jpg";
 import FruitePanche from "./assets/Fruit.jpg";
 import specialJuice from "./assets/Mercy special juice.jpg";
 import Mercychuckhole from "./assets/Mercychuckhole.jpg";
-import StraweberyJuice from "./assets/StraweberyJuice";
+import StraweberyJuice from "./assets/StraweberyJuice.jpg";
 import SpecialChehebesa from "./assets/SpecialChechebesa.jpg";
 export const Catgory = [
   {
