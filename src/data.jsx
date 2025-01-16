@@ -1,6 +1,9 @@
 import FruitePlater from "./assets/Fruit plater.jpg";
 import FruitePanche from "./assets/Fruit.jpg";
-import specialJuice from "./assets/SpecialJice.jpg";
+import specialJuice from "./assets/Mercy special juice.jpg";
+import Mercychuckhole from "./assets/Mercychuckhole.jpg";
+import StraweberyJuice from "./assets/StraweberyJuice";
+import SpecialChehebesa from "./assets/SpecialChechebesa.jpg";
 export const Catgory = [
   {
     name: "BURGER",
@@ -255,7 +258,7 @@ const menu = [
     category: "BREAKFAST",
     name: "Special Chechebsa",
     Price: 250,
-    img: "https://migrationology.com/wp-content/uploads/2014/01/chechebsa.jpg",
+    img: SpecialChehebesa,
   },
   {
     id: 33,
@@ -465,7 +468,7 @@ const menu = [
     category: "Juice",
     name: "Mercy Chuckhole Shake ",
     Price: 230,
-    img: "https://th.bing.com/th/id/R.c7f2a7962cd211e244e781b9292c3b0a?rik=c1G23WPuiDmx3w&pid=ImgRaw&r=0",
+    img: Mercychuckhole,
   },
   {
     id: 58,
@@ -528,7 +531,7 @@ const menu = [
     category: "Juice",
     name: "Strawberry Juice",
     Price: 210,
-    img: "https://th.bing.com/th/id/R.fff75a2a4b31f4f9d68ed84904f5c328?rik=bJSjWYh9tTrUkg&riu=http%3a%2f%2fcdn3.foodviva.com%2fstatic-content%2ffood-images%2fjuice-recipes%2fstrawberry-juice-recipe%2fstrawberry-juice-recipe.jpg&ehk=5NOPVrOcUiVgE3EKYsdEIBtAuXAZolsHgL5YBNhlNk8%3d&risl=&pid=ImgRaw&r=0",
+    img: StraweberyJuice,
   },
   {
     id: 67,
