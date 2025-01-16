@@ -4,6 +4,13 @@ import specialJuice from "./assets/Mercy special juice.jpg";
 import Mercychuckhole from "./assets/Mercychuckhole.jpg";
 import StraweberyJuice from "./assets/StraweberyJuice.jpg";
 import SpecialChehebesa from "./assets/SpecialChechebesa.jpg";
+import HoopyJuice from "./assets/HoopyJuice.jpg";
+import Gulish from "./assets/Gulish.jpg";
+import mercyHalf from "./assets/mercyHalf.jpg";
+import MercyComboSald from "./assets/MercyComboSald.jpg";
+import grilidFish from "./assets/grilidFish.jpg";
+import GishexaJuice from "./assets/GishexaJuice.jpg";
+import eggsandwiccchh from "./assets/eggsandwiccchh.jpg";
 export const Catgory = [
   {
     name: "BURGER",
@@ -76,7 +83,7 @@ const menu = [
     category: "BURGER",
     name: "Egg Sandwich",
     Price: 250,
-    img: "https://th.bing.com/th/id/R.a7a9cce07a98c78a71055f0c4226bbbb?rik=OTKxk8r2bGtdWA&pid=ImgRaw&r=0",
+    img: eggsandwiccchh,
   },
   {
     id: 7,
@@ -272,14 +279,14 @@ const menu = [
     category: "Salad",
     name: "Mercy Combo Salad",
     Price: 460,
-    img: "https://th.bing.com/th/id/OIP.uqsF-n1miMR6SUU_qgB8nwHaHa?rs=1&pid=ImgDetMain",
+    img: MercyComboSald,
   },
   {
     id: 35,
     category: "Salad",
     name: "Mercy Combo Salad Half",
     Price: 370,
-    img: "https://anaayafoods.com/wp-content/uploads/2016/06/combination-salad-recipe-768x512.jpg",
+    img: mercyHalf,
   },
   {
     id: 36,
@@ -356,7 +363,7 @@ const menu = [
     category: "Salad",
     name: "Grilled Fish",
     Price: 450,
-    img: "https://th.bing.com/th/id/R.38ae07ed0de74437ff9c12e53b27db54?rik=qTnAe57OdVccgQ&riu=http%3a%2f%2fhonest-food.net%2fwp-content%2fuploads%2f2011%2f08%2fgrilled-whole-fish-recipe.jpg&ehk=4P8i46z537h%2bt0fzVJuM9CMt6nleK8WQvRbW4T1jj8g%3d&risl=&pid=ImgRaw&r=0",
+    img: grilidFish,
   },
   {
     id: 47,
@@ -377,7 +384,7 @@ const menu = [
     category: "Salad",
     name: "Fish Goulash",
     Price: 350,
-    img: "https://i.ytimg.com/vi/EwVZykVeufo/maxresdefault.jpg",
+    img: Gulish,
   },
   {
     id: 45,
@@ -545,7 +552,7 @@ const menu = [
     category: "Juice",
     name: "Gishta Juice",
     Price: 130,
-    img: "https://th.bing.com/th/id/OIP.mpMc0L52n793a3xjl6gNtAHaLH?w=720&h=1080&rs=1&pid=ImgDetMain",
+    img: GishexaJuice,
   },
   {
     id: 69,
@@ -573,7 +580,7 @@ const menu = [
     category: "Juice",
     name: "HOPY Juice ",
     Price: 130,
-    img: "https://th.bing.com/th/id/OIP.k8ZYlpuvW1P7VmsOqkT4owHaLH?rs=1&pid=ImgDetMain",
+    img: HoopyJuice,
   },
   {
     id: 73,
