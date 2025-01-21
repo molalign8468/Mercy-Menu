@@ -1,3 +1,9 @@
+import SpriceJuice from "./assets/Spricejuice.jpg";
+import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
+import ClubSandwich from "./assets/ClubSandwich.jpg";
+import Sfexeria from "./assets/Sfexeria.jpg";
+import Fexira from "./assets/Fexeira.jpg";
+import Cocktail from "./assets/cotlet.jpg";
 import FruitePlater from "./assets/Fruit plater.jpg";
 import FruitePanche from "./assets/Fruit.jpg";
 import specialJuice from "./assets/Mercy special juice.jpg";
@@ -48,14 +54,14 @@ const menu = [
     category: "BURGER",
     name: "Fasting Burger",
     Price: 300,
-    img: "https://th.bing.com/th/id/OIP.9vOj25uyE-Aj7RUw1WM2xgHaE8?rs=1&pid=ImgDetMain",
+    img: "https://img.freepik.com/free-photo/top-view-delicious-home-made-burger_23-2148374929.jpg?t=st=1737471778~exp=1737475378~hmac=ce9edbfba5b65c159c9cb0ef38aa0985f6522470c1aea0d0604c0d5edf564164&w=360",
   },
   {
     id: 2,
     category: "BURGER",
     name: "Special Burger",
     Price: 460,
-    img: "https://th.bing.com/th/id/OIP.JnUimTk9WEG9Kz7RWBgmhwHaEu?rs=1&pid=ImgDetMain",
+    img: SpecialBurger,
   },
   {
     id: 3,
@@ -96,14 +102,14 @@ const menu = [
     id: 8,
     category: "BURGER",
     name: "Egg Scramble",
-    Price: 210,
+    Price: 250,
     img: "https://tastefullygrace.com/wp-content/uploads/2022/12/How-to-Make-Scrambled-Eggs-2-scaled.jpg",
   },
   {
     id: 9,
     category: "BURGER",
     name: "Vegetable Sandwich",
-    Price: 210,
+    Price: 250,
     img: "https://th.bing.com/th/id/OIP.4kFQpwk0gIitJQf2O6go1AHaFj?rs=1&pid=ImgDetMain",
   },
   {
@@ -216,7 +222,7 @@ const menu = [
     category: "PIZZA",
     name: "Club Sandwich",
     Price: 600,
-    img: "https://th.bing.com/th/id/R.744c84bea7c61fad933497e23ab2f2da?rik=XUcQvbvPOM7yLQ&riu=http%3a%2f%2fcdn.taste.com.au%2fimages%2frecipes%2fsfi%2f2005%2f07%2f1018.jpg&ehk=45WmqnZucECJnQ4wEgA1lZ43QP1MLSldWj%2fqD%2bs%2fGY0%3d&risl=&pid=ImgRaw&r=0",
+    img: ClubSandwich,
   },
   {
     id: 26,
@@ -232,54 +238,186 @@ const menu = [
     Price: 160,
     img: "https://th.bing.com/th/id/R.6e094453ed99ed8a810520b56fc92cca?rik=dM1zmyr5a1mttQ&riu=http%3a%2f%2fimg.taste.com.au%2fMudZOM3z%2ftaste%2f2016%2f11%2ffrench-fries-87711-1.jpeg&ehk=t1TZByWsonGmHwgvlRbxjsRsO%2fwV4HWSYbFXzwOdVpk%3d&risl=&pid=ImgRaw&r=0",
   },
+
+  //Test
   {
-    id: 28,
+    id: 1,
+    category: "BREAKFAST",
+    name: "Normal Omelet",
+    Price: 200,
+    img: "https://img.freepik.com/free-photo/spanich-omelet-plate_1203-8965.jpg?t=st=1737477632~exp=1737481232~hmac=2d251cfacf3c96ad731d3551291e433c15d91979b1b7eb20c4934b9ccf570518&w=360",
+  },
+  {
+    id: 2,
+    category: "BREAKFAST",
+    name: "Special Omelet",
+    Price: 250,
+    img: "https://img.freepik.com/free-photo/fish-chip_1203-3690.jpg?t=st=1737477776~exp=1737481376~hmac=63c1c569d3cba402eeb256dca5de8373d3646edbd55a56ea4f12dba7e4f354e8&w=740",
+  },
+  {
+    id: 3,
+    category: "BREAKFAST",
+    name: "Egg Sandwich",
+    Price: 250,
+    img: eggsandwiccchh,
+  },
+  {
+    id: 4,
+    category: "BREAKFAST",
+    name: "Vegetable Sandwich",
+    Price: 250,
+    img: "https://th.bing.com/th/id/OIP.4kFQpwk0gIitJQf2O6go1AHaFj?rs=1&pid=ImgDetMain",
+  },
+  {
+    id: 5,
+    category: "BREAKFAST",
+    name: "Toast Bread",
+    Price: 200,
+    img: "https://img.freepik.com/free-photo/delicious-peanut-butter-toast_144627-12482.jpg?t=st=1737478106~exp=1737481706~hmac=1bbdef5d3eaf7b0107513019f23b7eee4be446514f2f5b5ae64eae29d2c0521e&w=740",
+  },
+  {
+    id: 6,
     category: "BREAKFAST",
     name: "Pancake",
     Price: 250,
-    img: "https://www.bakingstherapy.com/wp-content/uploads/2020/07/DSC_8098-1-1.jpg",
+    img: "https://img.freepik.com/free-photo/photorealistic-pancakes-with-raspberries_23-2151042540.jpg?t=st=1737478245~exp=1737481845~hmac=bc0a63f8ad5aae3b1626423b886597c10c33f880b40e37270c59f94f26b66ac1&w=360",
   },
   {
-    id: 29,
+    id: 7,
     category: "BREAKFAST",
-    name: "Special Omelat",
-    Price: 300,
-    img: "https://th.bing.com/th/id/OIP.t1ZNDrYtB3qFb4dW_4IAnwHaE8?rs=1&pid=ImgDetMain",
+    name: "Dabo Firfir",
+    Price: 150,
+    img: "https://th.bing.com/th/id/R.74e96e4850a52361e940da7061252939?rik=lq6tLGju%2bQyu2g&pid=ImgRaw&r=0",
   },
+  {
+    id: 8,
+    category: "BREAKFAST",
+    name: "Roasted Vegetable",
+    Price: 225,
+    img: "https://img.freepik.com/free-photo/flat-lay-delicious-local-food-assortment_23-2148833789.jpg?t=st=1737478907~exp=1737482507~hmac=41c674e9f24ebf016ec51afa96009ebc3debdaffc33edfc8a2a4c8bfc90590e3&w=360",
+  },
+  {
+    id: 9,
+    category: "BREAKFAST",
+    name: "Meat Roll",
+    Price: 300,
+    img: "https://img.freepik.com/free-photo/side-view-chicken-doner-with-onion-cucumber-lettuce-sauce-pita-table_141793-4826.jpg?t=st=1737479133~exp=1737482733~hmac=328bbcc295834f121a2535ec8f5832fd2067e698fa3979d50a3dc47d1d53480a&w=740",
+  },
+  {
+    id: 10,
+    category: "BREAKFAST",
+    name: "Vegetable Roll",
+    Price: 250,
+    img: "https://img.freepik.com/free-photo/close-up-healthy-fresh-vegetable-spring-rolls_23-2148138866.jpg?t=st=1737479197~exp=1737482797~hmac=e04f5901c34f948410c68b99a0ec6a312773f8abcc2b9a97b06a1a344baab753&w=900",
+  },
+  {
+    id: 11,
+    category: "BREAKFAST",
+    name: "Egg Roll",
+    Price: 250,
+    img: "https://img.freepik.com/free-photo/vegan-spring-rice-paper-rolls-with-vegetables-plate_23-2148138875.jpg?t=st=1737479301~exp=1737482901~hmac=a8f3365ee39b87a0cce4484ec9b4312983fd632603ce9796cafc4d7af682ec32&w=900",
+  },
+  {
+    id: 12,
+    category: "BREAKFAST",
+    name: "Fish Burger",
+    Price: 300,
+    img: "https://img.freepik.com/free-photo/chicken-burger-lettuce-tomato-cheese-french-fries-ketchup-side-view_141793-3528.jpg?t=st=1737479359~exp=1737482959~hmac=c00a5f1cafbee6a06a5a2569c567eb6159baf48e0f4b93445c666e5df9ab0b0a&w=740",
+  },
+  {
+    id: 13,
+    category: "BREAKFAST",
+    name: "Fish Gulash",
+    Price: 300,
+    img: Gulish,
+  },
+  {
+    id: 14,
+    category: "BREAKFAST",
+    name: "Fried Fish",
+    Price: 300,
+    img: "https://img.freepik.com/free-photo/fried-fish-with-sauces-wooden-board_140725-1357.jpg?t=st=1737479670~exp=1737483270~hmac=63ade32dd744c03c237c72d948060148c694da91ecdec3878dc568999dc3977a&w=740",
+  },
+  {
+    id: 15,
+    category: "BREAKFAST",
+    name: "Tuna Sandwich",
+    Price: 300,
+    img: "https://img.freepik.com/free-photo/tuna-sandwich-with-mayo-vegetables-gray-stone-background_123827-23250.jpg?t=st=1737479758~exp=1737483358~hmac=0a97ba482e6ccead2960de0437d2047b196ba8d2c0c65c333020f1bf59c036bc&w=740",
+  },
+  {
+    id: 16,
+    category: "BREAKFAST",
+    name: "Normal Chechebisa",
+    Price: 200,
+    img: "https://th.bing.com/th/id/OIP.wYZhqBlKTM4lsAOCaacOCgHaEK?rs=1&pid=ImgDetMain",
+  },
+  {
+    id: 17,
+    category: "BREAKFAST",
+    name: "Special Chechebisa",
+    Price: 250,
+    img: "https://i.pinimg.com/originals/7b/74/4e/7b744e0c36bfb2acb59280bc679b70a6.jpg",
+  },
+  {
+    id: 18,
+    category: "BREAKFAST",
+    name: "Normal Fetira",
+    Price: 250,
+    img: Fexira,
+  },
+  {
+    id: 19,
+    category: "BREAKFAST",
+    name: "Special Fetira",
+    Price: 300,
+    img: Sfexeria,
+  },
+  {
+    id: 20,
+    category: "BREAKFAST",
+    name: "Asanbusa",
+    Price: 25,
+    img: "https://th.bing.com/th/id/R.7f5e0e1d1e0c609c9743a7eeaa74c20a?rik=x%2f1Tao7gHvd9lA&riu=http%3a%2f%2fs3.amazonaws.com%2fsheba-yemeni-food%2fapp%2fpublic%2fimages%2f37%2fmeat-sambusa---yemeni.png%3f1453150123&ehk=iCt9S2UPD0NHJ03zkJSMIQEEk3BlzNEdKafqcraXyCU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+  },
+  {
+    id: 21,
+    category: "BREAKFAST",
+    name: "Bonbolino",
+    Price: 50,
+    img: "https://th.bing.com/th/id/OIP.CxRGIYteNo40g4A2gAwzSwHaFj?rs=1&pid=ImgDetMain",
+  },
+
   {
     id: 30,
     category: "BREAKFAST",
-    name: "Cheese Omelat",
+    name: "Cheese Omelet",
     Price: 200,
     img: "https://th.bing.com/th/id/OIP.TSubyrrh0xZsTMcgTbb-6AHaE8?rs=1&pid=ImgDetMain",
   },
+
   {
-    id: 31,
+    id: 378,
     category: "BREAKFAST",
-    name: "Normal Omelat",
+    name: "Cocktail",
     Price: 250,
-    img: "https://th.bing.com/th/id/OIP.lP8SyISigcitxXSe0CtakwHaHa?rs=1&pid=ImgDetMain",
+    img: Cocktail,
   },
-  {
-    id: 32,
-    category: "BREAKFAST",
-    name: "Special Chechebsa",
-    Price: 250,
-    img: SpecialChehebesa,
-  },
-  {
-    id: 33,
-    category: "BREAKFAST",
-    name: "Fasting Chechebsa",
-    Price: 200,
-    img: "https://lh3.googleusercontent.com/Zi85q4GwnxO2V9IErtSYsUgqBvbuS6wGBQUJqciCu_YpS-p94miXSoOOBrCrO5H7zKoaKk8ztJC2_FMeec4gb803ny5vGUJ3s10ySNgd=w600-rj-l68-e365",
-  },
+
+  //test
   {
     id: 34,
     category: "Salad",
     name: "Mercy Combo Salad",
     Price: 460,
     img: MercyComboSald,
+  },
+  {
+    id: 100,
+    category: "Salad",
+    name: "Quarter Mercy Combo Salad ",
+    Price: 290,
+    img: "https://img.freepik.com/free-photo/salad-tomatoes-lettuce-soy-sauce-table_140725-9971.jpg?t=st=1737474420~exp=1737478020~hmac=6c7806541eae7a4c5151210e30ded5d9cc96179cee116205e8b93584fd0f5838&w=740",
   },
   {
     id: 35,
@@ -293,7 +431,7 @@ const menu = [
     category: "Salad",
     name: "Mercy Special Fruit Platter",
     Price: 460,
-    img: "https://th.bing.com/th/id/R.385a59da4a56a3ed3b9150ce52ada4ff?rik=%2bhgqb1cQjedQFw&pid=ImgRaw&r=0",
+    img: FruitePlater,
   },
   {
     id: 37,
@@ -321,7 +459,7 @@ const menu = [
     category: "Salad",
     name: "Fish Salad",
     Price: 460,
-    img: "https://th.bing.com/th/id/OIP.gPODnSW2ifXHj6Sd4S3JQAHaE5?rs=1&pid=ImgDetMain",
+    img: "https://img.freepik.com/free-photo/salmon-salad_74190-602.jpg?t=st=1737473047~exp=1737476647~hmac=ef6bd79e73c3de169fa66243f7b166b993b5930d756a550d8fca76d727ae9b09&w=740",
   },
   {
     id: 41,
@@ -335,7 +473,7 @@ const menu = [
     category: "Salad",
     name: "Fruit Plater Salad",
     Price: 410,
-    img: FruitePlater,
+    img: "https://th.bing.com/th/id/R.385a59da4a56a3ed3b9150ce52ada4ff?rik=%2bhgqb1cQjedQFw&pid=ImgRaw&r=0",
   },
   {
     id: 43,
@@ -446,8 +584,15 @@ const menu = [
     id: 53,
     category: "Fruits",
     name: "Gishta 1KG",
-    Price: 90,
+    Price: 100,
     img: "https://www.plantsville.in/wp-content/uploads/2022/06/Soursop-.jpg",
+  },
+  {
+    id: 53,
+    category: "Fruits",
+    name: "Homee 1KG",
+    Price: 100,
+    img: "https://www.jardiner-malin.fr/wp-content/uploads/2023/04/Fruit-de-la-passion-grenadille-1024x681.jpg",
   },
   {
     id: 54,
@@ -496,7 +641,7 @@ const menu = [
     category: "Juice",
     name: "Sprice Juice",
     Price: 130,
-    img: "https://3.bp.blogspot.com/_EIXk-7Ftokg/S76ybcQ1daI/AAAAAAAAFEU/taCVun0tYls/s1600/100_1029.JPG",
+    img: SpriceJuice,
   },
   {
     id: 61,
