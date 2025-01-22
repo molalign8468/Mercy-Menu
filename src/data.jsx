@@ -1,4 +1,5 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
+import MSpecialBurger from "./assets/MSpecialBurger.jpg";
 import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
 import ClubSandwich from "./assets/ClubSandwich.jpg";
 import Sfexeria from "./assets/Sfexeria.jpg";
@@ -61,7 +62,7 @@ const menu = [
     category: "BURGER",
     name: "Special Burger",
     Price: 460,
-    img: SpecialBurger,
+    img: MSpecialBurger,
   },
   {
     id: 3,
@@ -110,7 +111,7 @@ const menu = [
     category: "BURGER",
     name: "Vegetable Sandwich",
     Price: 250,
-    img: "https://th.bing.com/th/id/OIP.4kFQpwk0gIitJQf2O6go1AHaFj?rs=1&pid=ImgDetMain",
+    img: SpecialBurger,
   },
   {
     id: 10,
@@ -399,7 +400,7 @@ const menu = [
   {
     id: 378,
     category: "BREAKFAST",
-    name: "Cocktail",
+    name: "cutlets",
     Price: 250,
     img: Cocktail,
   },
