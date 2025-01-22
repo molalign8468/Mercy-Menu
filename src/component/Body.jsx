@@ -19,7 +19,7 @@ function Body({ items }) {
               className="w-44 bg-slate-950 text-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-2xl "
             >
               <a href="#">
-                <div className="h-28 w-44 overflow-hidden">
+                <div className="h-44 w-44 overflow-hidden">
                   <img
                     src={itm.img}
                     alt="Product"
