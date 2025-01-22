@@ -1,4 +1,4 @@
-import SpriceJuice from "./assets/SpecialJuice.jpg";
+import SpriceJuice from "./assets/Spricejuice.jpg";
 import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
 import ClubSandwich from "./assets/ClubSandwich.jpg";
 import Sfexeria from "./assets/Sfexeria.jpg";
@@ -6,7 +6,7 @@ import Fexira from "./assets/Fexeira.jpg";
 import Cocktail from "./assets/cotlet.jpg";
 import FruitePlater from "./assets/Fruit plater.jpg";
 import FruitePanche from "./assets/Fruit.jpg";
-import specialJuice from "./assets/Mercy special juice.jpg";
+import specialJuice from "./assets/SpecialJuice.jpg";
 import Mercychuckhole from "./assets/Mercychuckhole.jpg";
 import StraweberyJuice from "./assets/StraweberyJuice.jpg";
 import SpecialChehebesa from "./assets/SpecialChechebesa.jpg";
