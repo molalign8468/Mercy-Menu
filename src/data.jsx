@@ -1,4 +1,4 @@
-import SpriceJuice from "./assets/Spricejuice.jpg";
+import SpriceJuice from "./assets/SpecialJuice.jpg";
 import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
 import ClubSandwich from "./assets/ClubSandwich.jpg";
 import Sfexeria from "./assets/Sfexeria.jpg";
@@ -357,7 +357,7 @@ const menu = [
     category: "BREAKFAST",
     name: "Special Chechebisa",
     Price: 250,
-    img: "https://i.pinimg.com/originals/7b/74/4e/7b744e0c36bfb2acb59280bc679b70a6.jpg",
+    img: SpecialChehebesa,
   },
   {
     id: 18,
