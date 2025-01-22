@@ -1,4 +1,5 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
+import FriedFish from "./assets/FriedFishh.jpg";
 import TortaC from "./assets/TortaCkake.jpg";
 import TortaCBox from "./assets/TortaCkekeCarton.jpg";
 import FishSalad from "./assets/FishSalad.jpg";
@@ -511,7 +512,7 @@ const menu = [
     category: "Salad",
     name: "Fried Fish",
     Price: 450,
-    img: "https://th.bing.com/th/id/OIP.m9Fyejm4ay6IJJ6gRYPA1QHaE8?rs=1&pid=ImgDetMain",
+    img: FriedFish,
   },
   {
     id: 48,
