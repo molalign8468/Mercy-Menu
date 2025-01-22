@@ -687,7 +687,7 @@ const menu = [
     category: "Juice",
     name: "Strawberry Juice",
     Price: 210,
-    img: StraweberyJuice,
+    img: "https://img.freepik.com/free-photo/iced-red-soda-glass_1339-6230.jpg?t=st=1737574652~exp=1737578252~hmac=a10da263cb20d23f01e570a3fc651699fe103ebe1246db19873118596bbdc327&w=360",
   },
   {
     id: 67,
