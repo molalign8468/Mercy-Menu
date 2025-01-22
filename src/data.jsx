@@ -167,7 +167,7 @@ const menu = [
   },
   {
     id: 17,
-    category: "CAKE",
+    category: "Juice",
     name: "Take Away Juice Cup",
     Price: 30,
     img: "https://th.bing.com/th/id/OIP.OL3CN3p1_AQcNqq-MJomKwHaGo?rs=1&pid=ImgDetMain",
@@ -181,7 +181,7 @@ const menu = [
   },
   {
     id: 19,
-    category: "CAKE",
+    category: "PIZZA",
     name: "Pizza Take Away",
     Price: 50,
     img: "https://www.littleoverlodge.co.uk/wp-content/uploads/2018/08/pizza-restaurants-derby-takeaway-option.jpg",
