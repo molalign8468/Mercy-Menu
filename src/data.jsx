@@ -267,7 +267,7 @@ const menu = [
     category: "BREAKFAST",
     name: "Vegetable Sandwich",
     Price: 250,
-    img: "https://th.bing.com/th/id/OIP.4kFQpwk0gIitJQf2O6go1AHaFj?rs=1&pid=ImgDetMain",
+    img: SpecialBurger,
   },
   {
     id: 5,
