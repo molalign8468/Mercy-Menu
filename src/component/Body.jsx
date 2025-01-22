@@ -19,11 +19,14 @@ function Body({ items }) {
               className="w-44 bg-slate-950 text-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-2xl "
             >
               <a href="#">
-                <img
-                  src={itm.img}
-                  alt="Product"
-                  className="h-28 w-44 object-cover rounded-s-full hover:rounded-xl duration-500"
-                />
+                <div className="h-28 w-44 overflow-hidden">
+                  <img
+                    src={itm.img}
+                    alt="Product"
+                    className="  rounded-s-full hover:rounded-xl duration-500 w-full h-full object-contain"
+                  />
+                </div>
+
                 <div className="px-4 py-3 w-44 flex items-center gap-7 ">
                   <p className="text-sm  text-orange-400  block capitalize font-serif">
                     {itm.name}
