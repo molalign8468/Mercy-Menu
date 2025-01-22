@@ -23,7 +23,7 @@ function Body({ items }) {
                   <img
                     src={itm.img}
                     alt="Product"
-                    className="  rounded-s-full hover:rounded-xl duration-500 w-full h-full object-cover"
+                    className="  rounded-s-full hover:rounded-xl duration-500 w-full h-full"
                   />
                 </div>
 

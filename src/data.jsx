@@ -1,4 +1,6 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
+import TortaC from "./assets/TortaCkake.jpg";
+import TortaCBox from "./assets/TortaCkekeCarton.jpg";
 import FishSalad from "./assets/FishSalad.jpg";
 import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
 import ClubSandwich from "./assets/ClubSandwich.jpg";
@@ -146,7 +148,7 @@ const menu = [
     category: "CAKE",
     name: "Torta Cake",
     Price: 700,
-    img: "https://th.bing.com/th/id/OIP.dDkG-9taFOwuBteC_MQArgHaHa?rs=1&pid=ImgDetMain",
+    img: TortaC,
   },
   {
     id: 15,
@@ -174,7 +176,7 @@ const menu = [
     category: "CAKE",
     name: "Torta Cake Box",
     Price: 50,
-    img: "https://th.bing.com/th/id/R.04224899355516df06062c2c61678b75?rik=fE1lIrxXzV%2bq%2fg&riu=http%3a%2f%2f1.bp.blogspot.com%2f-kN8m4hlzlYY%2fTWZoDnz5V5I%2fAAAAAAAAARU%2f-_hcgFBwxr4%2fs1600%2fblack%2bmagic%2bcupcakes.jpg&ehk=9mxNNJIPV2r%2b7YGSuqnsFxha%2fRDXckEbFFRnStH9kw8%3d&risl=&pid=ImgRaw&r=0",
+    img: TortaCBox,
   },
   {
     id: 19,
