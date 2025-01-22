@@ -1,5 +1,5 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
-import MSpecialBurger from "./assets/MSpecialBurger.jpg";
+import FishSalad from "./assets/FishSalad.jpg";
 import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
 import ClubSandwich from "./assets/ClubSandwich.jpg";
 import Sfexeria from "./assets/Sfexeria.jpg";
@@ -62,7 +62,7 @@ const menu = [
     category: "BURGER",
     name: "Special Burger",
     Price: 460,
-    img: MSpecialBurger,
+    img: SpecialBurger,
   },
   {
     id: 3,
@@ -460,7 +460,7 @@ const menu = [
     category: "Salad",
     name: "Fish Salad",
     Price: 460,
-    img: "https://img.freepik.com/free-photo/salmon-salad_74190-602.jpg?t=st=1737473047~exp=1737476647~hmac=ef6bd79e73c3de169fa66243f7b166b993b5930d756a550d8fca76d727ae9b09&w=740",
+    img: FishSalad,
   },
   {
     id: 41,
@@ -564,7 +564,7 @@ const menu = [
     id: 50,
     category: "Fruits",
     name: "Water Melon Big 1KG",
-    Price: 80,
+    Price: 100,
     img: "https://th.bing.com/th/id/OIP.4sJ0LqbOcntI7ncDYcd18gHaEO?rs=1&pid=ImgDetMain",
   },
   {
