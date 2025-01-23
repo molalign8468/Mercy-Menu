@@ -12,7 +12,7 @@ import FruitePlater from "./assets/Fruit plater.jpg";
 import FruitePanche from "./assets/Fruit.jpg";
 import specialJuice from "./assets/SpecialJuice.jpg";
 import Mercychuckhole from "./assets/Mercychuckhole.jpg";
-import StraweberyJuice from "./assets/StraweberyJuice.jpg";
+import straw from "./assets/Sraw.jpg";
 import SpecialChehebesa from "./assets/SpecialChechebesa.jpg";
 import HoopyJuice from "./assets/HoopyJuice.jpg";
 import Gulish from "./assets/Gulish.jpg";
@@ -340,7 +340,7 @@ const menu = [
     category: "BREAKFAST",
     name: "Fried Fish",
     Price: 300,
-    img: "https://img.freepik.com/free-photo/fried-fish-with-sauces-wooden-board_140725-1357.jpg?t=st=1737479670~exp=1737483270~hmac=63ade32dd744c03c237c72d948060148c694da91ecdec3878dc568999dc3977a&w=740",
+    img: FriedFish,
   },
   {
     id: 15,
@@ -687,7 +687,7 @@ const menu = [
     category: "Juice",
     name: "Strawberry Juice",
     Price: 210,
-    img: "https://img.freepik.com/free-photo/iced-red-soda-glass_1339-6230.jpg?t=st=1737574652~exp=1737578252~hmac=a10da263cb20d23f01e570a3fc651699fe103ebe1246db19873118596bbdc327&w=360",
+    img: straw,
   },
   {
     id: 67,
