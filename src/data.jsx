@@ -148,7 +148,7 @@ const menu = [
     id: 14,
     category: "CAKE",
     name: "Torta Cake",
-    Price: 700,
+    Price: 800,
     img: TortaC,
   },
   {
@@ -381,7 +381,7 @@ const menu = [
     id: 20,
     category: "BREAKFAST",
     name: "Asanbusa",
-    Price: 25,
+    Price: 30,
     img: "https://th.bing.com/th/id/R.7f5e0e1d1e0c609c9743a7eeaa74c20a?rik=x%2f1Tao7gHvd9lA&riu=http%3a%2f%2fs3.amazonaws.com%2fsheba-yemeni-food%2fapp%2fpublic%2fimages%2f37%2fmeat-sambusa---yemeni.png%3f1453150123&ehk=iCt9S2UPD0NHJ03zkJSMIQEEk3BlzNEdKafqcraXyCU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
   },
   {
@@ -623,7 +623,7 @@ const menu = [
     id: 57,
     category: "Juice",
     name: "Mercy Chuckhole Shake ",
-    Price: 230,
+    Price: 250,
     img: Mercychuckhole,
   },
   {
@@ -721,7 +721,7 @@ const menu = [
     id: 71,
     category: "Juice",
     name: "Strawberry Shake",
-    Price: 220,
+    Price: 230,
     img: "https://th.bing.com/th/id/OIP.XzeyKVSg88qntLhnxZxvvwHaNK?rs=1&pid=ImgDetMain",
   },
   {
