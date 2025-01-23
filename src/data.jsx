@@ -1,4 +1,6 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
+import tackawayBox from "./assets/TackAwayBox.jpg";
+import wine from "./assets/Wine.jpg";
 import teramiso from "./assets/Teramiso.jpg";
 import FriedFish from "./assets/FriedFishh.jpg";
 import TortaC from "./assets/TortaCkake.jpg";
@@ -185,7 +187,7 @@ const menu = [
     category: "PIZZA",
     name: "Pizza Take Away",
     Price: 50,
-    img: "https://www.littleoverlodge.co.uk/wp-content/uploads/2018/08/pizza-restaurants-derby-takeaway-option.jpg",
+    img: tackawayBox,
   },
   {
     id: 20,
@@ -604,7 +606,7 @@ const menu = [
     category: "Fruits",
     name: "Wine 1 kg",
     Price: 1600,
-    img: "https://www.jardiner-malin.fr/wp-content/uploads/2023/04/Fruit-de-la-passion-grenadille-1024x681.jpg",
+    img: wine,
   },
   {
     id: 54,
