@@ -1,7 +1,8 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
+import teramiso from "./assets/Teramiso.jpg";
 import FriedFish from "./assets/FriedFishh.jpg";
 import TortaC from "./assets/TortaCkake.jpg";
-import TortaCBox from "./assets/TortaCkekeCarton.jpg";
+import TortaCBox from "./assets/CackBox.jpg";
 import FishSalad from "./assets/FishSalad.jpg";
 import SpecialBurger from "./assets/SpecialBurgerrr.jpg";
 import ClubSandwich from "./assets/ClubSandwich.jpg";
@@ -135,7 +136,7 @@ const menu = [
     category: "CAKE",
     name: "Teramiso",
     Price: 80,
-    img: "https://th.bing.com/th/id/OIP.8-hIBxuk2aR5lmY7CHN38wHaE7?rs=1&pid=ImgDetMain",
+    img: teramiso,
   },
   {
     id: 13,
@@ -596,6 +597,13 @@ const menu = [
     category: "Fruits",
     name: "Homee 1KG",
     Price: 100,
+    img: "https://www.jardiner-malin.fr/wp-content/uploads/2023/04/Fruit-de-la-passion-grenadille-1024x681.jpg",
+  },
+  {
+    id: 53,
+    category: "Fruits",
+    name: "Wine 1 kg",
+    Price: 1600,
     img: "https://www.jardiner-malin.fr/wp-content/uploads/2023/04/Fruit-de-la-passion-grenadille-1024x681.jpg",
   },
   {
