@@ -193,7 +193,7 @@ const menu = [
     id: 20,
     category: "PIZZA",
     name: "Special Pizz",
-    Price: 460,
+    Price: 550,
     img: "https://th.bing.com/th/id/OIP.ft2vr4OqwlodS_sD9eI8GAHaFE?rs=1&pid=ImgDetMain",
   },
   {
