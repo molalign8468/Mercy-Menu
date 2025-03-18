@@ -1,4 +1,5 @@
 import SpriceJuice from "./assets/Spricejuice.jpg";
+import cakeTackawayPapaer from "./assets/Pakk.jpg";
 import tackawayBox from "./assets/TackAwayBox.jpg";
 import wine from "./assets/Wine.jpg";
 import teramiso from "./assets/Teramiso.jpg";
@@ -166,7 +167,7 @@ const menu = [
     category: "CAKE",
     name: "Cake Take Away Paper",
     Price: 30,
-    img: "https://th.bing.com/th/id/OIP.lE5jpOXOjuieIPhdVqK0VAHaHa?rs=1&pid=ImgDetMain",
+    img: cakeTackawayPapaer,
   },
   {
     id: 17,
