@@ -445,7 +445,7 @@ const menu = [
     id: 37,
     category: "Salad",
     name: "Mercy Special Salad",
-    Price: 410,
+    Price: 480,
     img: "https://th.bing.com/th/id/OIP.Ycq7mL_Ndcmt8hva0QML4QHaLH?rs=1&pid=ImgDetMain",
   },
   {
@@ -459,7 +459,7 @@ const menu = [
     id: 39,
     category: "Salad",
     name: "Mercy Special Tuna Salad Half",
-    Price: 410,
+    Price: 460,
     img: "https://www.deliciousmeetshealthy.com/wp-content/uploads/2020/06/Mediterranean-Tuna-Salad-7.jpg",
   },
   {
