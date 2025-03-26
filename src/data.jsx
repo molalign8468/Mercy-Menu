@@ -529,7 +529,7 @@ const menu = [
     id: 49,
     category: "Salad",
     name: "Fish Goulash",
-    Price: 350,
+    Price: 390,
     img: Gulish,
   },
   {
