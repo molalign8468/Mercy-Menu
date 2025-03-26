@@ -96,14 +96,14 @@ const menu = [
     id: 6,
     category: "BURGER",
     name: "Egg Sandwich",
-    Price: 250,
+    Price: 350,
     img: eggsandwiccchh,
   },
   {
     id: 7,
     category: "BURGER",
     name: "Tuna Sandwich",
-    Price: 300,
+    Price: 390,
     img: "https://th.bing.com/th/id/R.7cb20b2fdce31b85365d01009965b96f?rik=eV62%2blNa%2fTA0Sw&pid=ImgRaw&r=0",
   },
   {
@@ -117,7 +117,7 @@ const menu = [
     id: 9,
     category: "BURGER",
     name: "Vegetable Sandwich",
-    Price: 250,
+    Price: 300,
     img: SpecialBurger,
   },
   {
