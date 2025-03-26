@@ -350,7 +350,7 @@ const menu = [
     id: 15,
     category: "BREAKFAST",
     name: "Tuna Sandwich",
-    Price: 300,
+    Price: 390,
     img: "https://img.freepik.com/free-photo/tuna-sandwich-with-mayo-vegetables-gray-stone-background_123827-23250.jpg?t=st=1737479758~exp=1737483358~hmac=0a97ba482e6ccead2960de0437d2047b196ba8d2c0c65c333020f1bf59c036bc&w=740",
   },
   {
