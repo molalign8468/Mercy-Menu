@@ -408,7 +408,7 @@ const menu = [
     id: 378,
     category: "BREAKFAST",
     name: "cutlets",
-    Price: 250,
+    Price: 390,
     img: Cocktail,
   },
 
@@ -515,7 +515,7 @@ const menu = [
     id: 47,
     category: "Salad",
     name: "Fried Fish",
-    Price: 450,
+    Price: 410,
     img: FriedFish,
   },
   {
