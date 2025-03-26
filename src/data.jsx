@@ -266,14 +266,14 @@ const menu = [
     id: 3,
     category: "BREAKFAST",
     name: "Egg Sandwich",
-    Price: 250,
+    Price: 350,
     img: eggsandwiccchh,
   },
   {
     id: 4,
     category: "BREAKFAST",
     name: "Vegetable Sandwich",
-    Price: 250,
+    Price: 300,
     img: SpecialBurger,
   },
   {
@@ -287,7 +287,7 @@ const menu = [
     id: 6,
     category: "BREAKFAST",
     name: "Pancake",
-    Price: 250,
+    Price: 290,
     img: "https://img.freepik.com/free-photo/photorealistic-pancakes-with-raspberries_23-2151042540.jpg?t=st=1737478245~exp=1737481845~hmac=bc0a63f8ad5aae3b1626423b886597c10c33f880b40e37270c59f94f26b66ac1&w=360",
   },
   {
@@ -336,14 +336,14 @@ const menu = [
     id: 13,
     category: "BREAKFAST",
     name: "Fish Gulash",
-    Price: 300,
+    Price: 390,
     img: Gulish,
   },
   {
     id: 14,
     category: "BREAKFAST",
     name: "Fried Fish",
-    Price: 300,
+    Price: 410,
     img: FriedFish,
   },
   {
@@ -357,14 +357,14 @@ const menu = [
     id: 16,
     category: "BREAKFAST",
     name: "Normal Chechebisa",
-    Price: 200,
+    Price: 250,
     img: "https://th.bing.com/th/id/OIP.wYZhqBlKTM4lsAOCaacOCgHaEK?rs=1&pid=ImgDetMain",
   },
   {
     id: 17,
     category: "BREAKFAST",
     name: "Special Chechebisa",
-    Price: 250,
+    Price: 300,
     img: SpecialChehebesa,
   },
   {
@@ -400,7 +400,7 @@ const menu = [
     id: 30,
     category: "BREAKFAST",
     name: "Cheese Omelet",
-    Price: 200,
+    Price: 300,
     img: "https://th.bing.com/th/id/OIP.TSubyrrh0xZsTMcgTbb-6AHaE8?rs=1&pid=ImgDetMain",
   },
 
